@@ -1,15 +1,15 @@
-#👋 Welcome to My Cybersecurity Portfolio
+👋 Welcome to My Cybersecurity Portfolio
 
-#Hello and welcome!
+Hello and welcome!
 
 I'm Mark, a passionate cybersecurity professional dedicated to helping organizations protect their digital assets.
 This portfolio showcases my hands-on projects, technical skills, certifications, and commitment to continuous learning in the field of cybersecurity.
 
-#🔒 My Mission:
+🔒 My Mission:
 
 To create safer digital environments through proactive security strategies, ethical hacking, and constant skill development.
 
-#💻 Key Highlights:
+💻 Key Highlights:
 
 Risk Assessments and Threat Analysis
 
@@ -21,7 +21,7 @@ Incident Response and Recovery Planning
 
 Hands-on Labs and Real-world Simulations
 
-#🚀 What's Inside:
+🚀 What's Inside:
 
 Projects: Detailed case studies and technical walkthroughs
 
