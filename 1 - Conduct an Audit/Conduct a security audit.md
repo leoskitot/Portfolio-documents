@@ -69,4 +69,17 @@ Control types (providing defense and protecting assets) include, but are not lim
 
 Does Botium Toys currenly have this control in place?
 
+| Yes / No | Control | Explanation |
+| :---: | :---: | :---: |
+| No | Least Privilige | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
+| No | Disaster Recovery Plan | At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
+| Yes |	Firewall | The organization has a firewall to block traffic based on an appropriately defined set of security rules. |
+| ? |	Password | policies	Password policy exists, yet the requirements are considered weak and put the identity management access at risk.|
+| Yes |	Antivirus |	The antivirus software is active and regulary monitored by IT team. |
+| No |	Backups |	This is as same as disaster recovery plan. They are not prepared in the case of breach. They have to implement the backup plan, such as incremental, full, or partial. |
+| No |	Encryption |	This would protect confidentiality of data.|
+| No |	IDS |	This would help IT team to identiy possible intrusions by the threat actors. |
+| Yes |	Storefront |	Although IT team is not responsible for the management at the storefront, however the organization should have sufficient locks. |
+| Yes |	CCTV |	It is working and functioning. |
+| Yes |	Fire | detection	The organization has these. However, the team should maintain it and establish a plan on how to use it. |
 
