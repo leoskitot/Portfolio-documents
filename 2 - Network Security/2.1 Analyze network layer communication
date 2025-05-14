@@ -11,7 +11,7 @@ website and you also receive the error “destination port unreachable.” Next,
 again. This time, you receive a lot of packets in your network analyzer. The analyzer shows that when you send UDP packets and receive an ICMP response 
 returned to your host, the results contain an error message: “udp port 53 unreachable.”
 
-![Screenshot of network log](https://github.com/leoskitot/images/blob/main/Capture.JPG)
+ ![Screenshot of network log](https://github.com/leoskitot/images/blob/main/Capture.JPG)
 
 In the DNS and ICMP log, you find the following information:
 
