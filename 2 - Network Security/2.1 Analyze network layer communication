@@ -12,3 +12,10 @@ again. This time, you receive a lot of packets in your network analyzer. The ana
 returned to your host, the results contain an error message: “udp port 53 unreachable.”
 
 ![Screenshot of network log](https://github.com/leoskitot/images/blob/main/Capture.JPG)
+
+In the DNS and ICMP log, you find the following information:
+
+
+
+
+
