@@ -31,6 +31,6 @@ Certifications: Proof of my formal training
 
 Contact Info: How to reach out to me
 
-"Cybersecurity is not just a job — it's a commitment to protecting trust."
+"Cybersecurity is not just a job - it's a commitment to protecting trust."
 
-— Mark
+- Mark
